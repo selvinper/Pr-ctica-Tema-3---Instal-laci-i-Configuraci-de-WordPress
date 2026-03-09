@@ -39,3 +39,15 @@ tiene las noticias mas destacadas del momento
 Las categorias tienen las noticias de sus ligas y las tablas de clasificacion
 
 ## <img width="1298" height="738" alt="Captura desde 2026-03-09 17-55-52" src="https://github.com/user-attachments/assets/471a963e-6ee7-4cda-92b8-52cada49989c" />
+
+## Contacto
+
+El coctacto lo puse como una noticia en el buscador por que no me dejaba pornerla en un entrada
+
+<img width="1298" height="738" alt="Captura desde 2026-03-09 18-03-51" src="https://github.com/user-attachments/assets/00303543-d3ca-4c71-8a3c-384be6deb00a" />
+
+## Traductor y Buscador 
+Para poner el traductor y el buscador tuve que instalar plugins
+
+
+<img width="1298" height="738" alt="Captura desde 2026-03-09 18-14-21" src="https://github.com/user-attachments/assets/81f1bc2f-b203-4953-be05-ae07abf5605a" />
