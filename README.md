@@ -30,5 +30,12 @@ Por último, comprobé que la página funcionara correctamente tanto en ordenado
 
 # Imagenes #
 
-el **Inicio** tiene las noticias mas destacadas del momento 
+## Inicio 
+tiene las noticias mas destacadas del momento 
 
+<img width="1298" height="738" alt="Captura desde 2026-03-09 17-50-58" src="https://github.com/user-attachments/assets/85f1e54b-d77d-4368-8134-1188025a6d7f" />
+
+## Categorias
+Las categorias tienen las noticias de sus ligas y las tablas de clasificacion
+
+## <img width="1298" height="738" alt="Captura desde 2026-03-09 17-55-52" src="https://github.com/user-attachments/assets/471a963e-6ee7-4cda-92b8-52cada49989c" />
