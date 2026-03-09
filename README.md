@@ -29,3 +29,6 @@ Champions League: secciones dedicadas a las competiciones, con noticias, resulta
 Por último, comprobé que la página funcionara correctamente tanto en ordenadores como en dispositivos móviles, asegurando que el diseño fuera adaptable y fácil de navegar para los usuarios.
 
 # Imagenes #
+
+el **Inicio** tiene las noticias mas destacadas del momento 
+
